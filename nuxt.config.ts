@@ -131,6 +131,10 @@ export default defineNuxtConfig({
         language: "mr-IN",
       },
       {
+        code: "ms-MY",
+        language: "ms-MY",
+      },
+      {
         code: "nl",
         language: "nl-NL",
       },
